@@ -451,7 +451,7 @@
   }
   .section--small .prose { font-size: var(--step--1); line-height: 1.55; color: var(--text-2); }
   .link-row a { display: inline-block; padding-block: 0.25rem; }
-  .mailbox { font: var(--weight-display) var(--step-2)/1.2 var(--font-display); letter-spacing: var(--tracking-heading); overflow-wrap: anywhere; }
+  .mailbox { font: var(--weight-display) var(--step-2)/1.2 var(--font-display); letter-spacing: var(--tracking-heading); overflow-wrap: normal; }
   .mailbox a { display: inline-block; padding-block: 0.15em; }
   .casl { max-inline-size: var(--measure); font-size: var(--step--1); color: var(--text-2); }
   .mailbox + .casl { margin-block-start: var(--space-xs); }
